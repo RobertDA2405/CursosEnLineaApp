@@ -15,10 +15,11 @@ private val DarkColorScheme = darkColorScheme(
     primary = PrimaryColor,
     secondary = SecondaryColor,
     surface = SurfaceColor,
+    surfaceVariant = SurfaceVariantColor,
     background = BackgroundColor,
     error = ErrorColor,
     onPrimary = OnPrimaryColor,
-    onSecondary = OnPrimaryColor,
+    onSecondary = OnSecondaryColor,
     onSurface = OnSurfaceColor,
     onSurfaceVariant = OnSurfaceVariantColor
 )
@@ -27,10 +28,11 @@ private val LightColorScheme = lightColorScheme(
     primary = PrimaryColor,
     secondary = SecondaryColor,
     surface = SurfaceColor,
+    surfaceVariant = SurfaceVariantColor,
     background = BackgroundColor,
     error = ErrorColor,
     onPrimary = OnPrimaryColor,
-    onSecondary = OnPrimaryColor,
+    onSecondary = OnSecondaryColor,
     onSurface = OnSurfaceColor,
     onSurfaceVariant = OnSurfaceVariantColor
 )
